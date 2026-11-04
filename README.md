@@ -1,4 +1,4 @@
-# N0T3B0X
+
 # N0T3B0X
 
 **N0T3B0X** is a desktop productivity application designed to make studying, working, and presenting easier through a collection of intelligent tools.

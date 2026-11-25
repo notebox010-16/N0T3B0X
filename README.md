@@ -8,9 +8,7 @@
 
 - **Voice Calculator** – Converts spoken mathematical expressions into calculations and provides results.
 - **Notes** – Write, manage, and temporarily store notes.
-- **Timer** – Set timers to manage your time.
 - **Stopwatch** – Track elapsed time.
-- **Q&A** – Get assistance with questions and explanations.
 - **Synonyms** – Find alternative words and improve your vocabulary.
 - **Pace Coach** – Monitor speaking speed and receive feedback.
 - **Breakdown** – Break down topics and information into easier-to-understand points.
